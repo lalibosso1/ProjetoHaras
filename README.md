@@ -1,4 +1,4 @@
-# ProjetoHaras# Projeto Haras Larissa 🐎
+# Projeto Haras Larissa 🐎
 
 Este é um sistema simples de Windows Forms desenvolvido em C# com o objetivo de calcular a quantidade de ferraduras necessárias para um determinado número de cavalos. O projeto foi construído com foco em aplicações de desktop usando .NET Framework.
 
