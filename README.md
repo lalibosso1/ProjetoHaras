@@ -17,8 +17,3 @@ Este é um sistema simples de Windows Forms desenvolvido em C# com o objetivo de
 - **Metodologia de desenvolvimento:** Programação orientada a eventos
 - **IDE recomendada:** Visual Studio
 
-## 💡 Como usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/projeto-haras-larissa.git
