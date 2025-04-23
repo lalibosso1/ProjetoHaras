@@ -1,0 +1,10 @@
+E:\DS\projeto_haras_larissa\projeto_haras_larissa\bin\Debug\projeto_haras_larissa.exe.config
+E:\DS\projeto_haras_larissa\projeto_haras_larissa\bin\Debug\projeto_haras_larissa.exe
+E:\DS\projeto_haras_larissa\projeto_haras_larissa\bin\Debug\projeto_haras_larissa.pdb
+E:\DS\projeto_haras_larissa\projeto_haras_larissa\obj\Debug\projeto_haras_larissa.csprojAssemblyReference.cache
+E:\DS\projeto_haras_larissa\projeto_haras_larissa\obj\Debug\projeto_haras_larissa.frmHaras.resources
+E:\DS\projeto_haras_larissa\projeto_haras_larissa\obj\Debug\projeto_haras_larissa.Properties.Resources.resources
+E:\DS\projeto_haras_larissa\projeto_haras_larissa\obj\Debug\projeto_haras_larissa.csproj.GenerateResource.cache
+E:\DS\projeto_haras_larissa\projeto_haras_larissa\obj\Debug\projeto_haras_larissa.csproj.CoreCompileInputs.cache
+E:\DS\projeto_haras_larissa\projeto_haras_larissa\obj\Debug\projeto_haras_larissa.exe
+E:\DS\projeto_haras_larissa\projeto_haras_larissa\obj\Debug\projeto_haras_larissa.pdb
